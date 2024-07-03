@@ -1,3 +1,4 @@
+//code for printing array in reversed order
 #include <bits/stdc++.h>
 using namespace std;
 void printArray(int arr[], int size) {
