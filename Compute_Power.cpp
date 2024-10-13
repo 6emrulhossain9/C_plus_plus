@@ -1,5 +1,5 @@
 #include <iostream>
-using namespac std;
+using নেমস্পেস std;
 int main() 
 {
 int power;
